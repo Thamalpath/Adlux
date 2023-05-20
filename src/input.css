@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Averta';
+    src: url(../dist/fonts/AvertaDemoPE-ExtraBold.otf) format('truetype');
+    src: url(../dist/fonts/AvertaDemoPECuttedDemo-Regular.otf)format('truetype');
+}
+
+
+
